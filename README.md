@@ -1,4 +1,3 @@
 # myrepo
-This is my repo
+This is my first repo
 Use as my personal test
-###
